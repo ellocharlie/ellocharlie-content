@@ -1,0 +1,11 @@
+{
+  "name": "ellocharlie-content",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun run scripts/build.ts",
+    "validate": "bun run scripts/validate.ts",
+    "new-post": "bun run scripts/new-post.ts"
+  }
+}

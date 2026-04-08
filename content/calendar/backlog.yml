@@ -1,0 +1,116 @@
+version: "1.0"
+updated: "2026-04-08"
+maintainer: "growth-agent"
+
+backlog:
+  - title: "How AI-Powered Live Chat Reduces Ticket Volume by 60%"
+    slug: "ai-live-chat-reduces-ticket-volume"
+    target_date: "2026-04-15"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "cto"
+        reason: "Technical claims about AI chat deflection rates"
+    tags: ["live-chat", "ai", "support", "automation"]
+    status: "planned"
+    notes: "Lead with deflection stat. Link to live chat product page. CTO to verify benchmark numbers."
+
+  - title: "The Death of the Spreadsheet CRM"
+    slug: "death-of-the-spreadsheet-crm"
+    target_date: "2026-04-22"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "ceo"
+        reason: "Competitive positioning — replaces tools like Airtable and Notion CRM"
+    tags: ["crm", "spreadsheet", "startups", "productivity"]
+    status: "planned"
+    notes: "Target founders still using Sheets/Notion as CRM. Empathy-first. No bashing competitors by name."
+
+  - title: "Why Multi-Tenant Architecture Matters for Your Data"
+    slug: "why-multi-tenant-architecture-matters"
+    target_date: "2026-04-29"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "cto"
+        reason: "Architecture accuracy — must be technically sound"
+    tags: ["architecture", "security", "saas", "data-isolation"]
+    status: "planned"
+    notes: "Explain data isolation, per-tenant encryption, compliance implications. CTO review is mandatory."
+
+  - title: "Building a Documentation Portal That Customers Actually Use"
+    slug: "documentation-portal-customers-actually-use"
+    target_date: "2026-05-06"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "cto"
+        reason: "Product accuracy — docs portal feature set"
+    tags: ["documentation", "customer-success", "product", "ux"]
+    status: "planned"
+    notes: "Cover structure, search, version control, feedback loops. Tie to ellocharlie docs product."
+
+  - title: "Status Pages: The Cheapest Customer Trust Signal"
+    slug: "status-pages-cheapest-customer-trust-signal"
+    target_date: "2026-05-13"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "ceo"
+        reason: "Positioning — status page as trust infrastructure, not compliance checkbox"
+    tags: ["status-page", "trust", "infrastructure", "transparency"]
+    status: "planned"
+    notes: "Short, punchy. Target: founders who haven't shipped a status page yet. Include incident communication angle."
+
+  - title: "From Startup to Scale: CRM That Grows With You"
+    slug: "crm-that-grows-with-you"
+    target_date: "2026-05-20"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "ceo"
+        reason: "Core positioning — ellocharlie as the CRM that doesn't need to be replaced at Series B"
+    tags: ["crm", "scaling", "startups", "growth"]
+    status: "planned"
+    notes: "Address the fear of outgrowing tools. Speak to pain of CRM migration at scale."
+
+  - title: "The Hidden Cost of Tool Fragmentation"
+    slug: "hidden-cost-of-tool-fragmentation"
+    target_date: "2026-05-27"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "ceo"
+        reason: "Positioning — ellocharlie as the antidote to fragmentation"
+    tags: ["tools", "productivity", "integration", "startups"]
+    status: "in-progress"
+    notes: "Quantify context-switching cost. Reference research on tool sprawl. CTA to unified platform."
+
+  - title: "Why Your Helpdesk and CRM Need to Talk"
+    slug: "why-helpdesk-and-crm-need-to-talk"
+    target_date: "2026-06-03"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "cto"
+        reason: "Integration architecture — how data flows between systems"
+      - reviewer: "ceo"
+        reason: "Positioning sign-off"
+    tags: ["helpdesk", "crm", "integration", "customer-success"]
+    status: "planned"
+    notes: "Sibling to the CRM dark post. Focus on the support ticket context problem specifically."
+
+  - title: "Automating Customer Workflows Without the Enterprise Price Tag"
+    slug: "automating-customer-workflows-without-enterprise-price"
+    target_date: "2026-06-10"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "ceo"
+        reason: "Pricing and packaging positioning"
+    tags: ["automation", "workflows", "pricing", "startups"]
+    status: "planned"
+    notes: "Address the pain of Salesforce/HubSpot automation being gated behind expensive tiers."
+
+  - title: "Metrics That Matter: Beyond MRR"
+    slug: "metrics-that-matter-beyond-mrr"
+    target_date: "2026-06-17"
+    assigned_agent: "growth-agent"
+    review_chain:
+      - reviewer: "ceo"
+        reason: "Strategic framing — customer health metrics vs pure revenue metrics"
+    tags: ["metrics", "analytics", "customer-success", "saas"]
+    status: "planned"
+    notes: "Cover NRR, CSAT, time-to-value, onboarding completion rate, support deflection rate. Position ellocharlie analytics."

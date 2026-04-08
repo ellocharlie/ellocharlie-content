@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "generatedAt": "2026-04-08T12:53:00.000Z",
+    "period": "2026-03-01 to 2026-04-08",
+    "currency": "USD"
+  },
+  "summary": {
+    "totalPageviews": 4821,
+    "uniqueVisitors": 3104,
+    "avgTimeOnPageSeconds": 187,
+    "avgBounceRate": 0.52,
+    "totalConversions": 43,
+    "conversionRate": 0.014
+  },
+  "posts": [
+    {
+      "slug": "why-your-crm-goes-dark-after-the-sale",
+      "title": "Why Your CRM Goes Dark After the Sale",
+      "type": "blog",
+      "publishedAt": "2026-04-08",
+      "metrics": {
+        "pageviews": 0,
+        "uniqueVisitors": 0,
+        "avgTimeOnPageSeconds": 0,
+        "bounceRate": null,
+        "scrollDepthPercent": null,
+        "socialShares": 0,
+        "inboundLinks": 0,
+        "conversions": 0,
+        "conversionRate": null
+      },
+      "seo": {
+        "googleRankPosition": null,
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": null,
+        "indexedAt": null
+      },
+      "status": "just_published"
+    },
+    {
+      "slug": "the-5-person-agent-driven-company",
+      "title": "The 5-Person Agent-Driven Company",
+      "type": "blog",
+      "publishedAt": "2026-04-08",
+      "metrics": {
+        "pageviews": 0,
+        "uniqueVisitors": 0,
+        "avgTimeOnPageSeconds": 0,
+        "bounceRate": null,
+        "scrollDepthPercent": null,
+        "socialShares": 0,
+        "inboundLinks": 0,
+        "conversions": 0,
+        "conversionRate": null
+      },
+      "seo": {
+        "googleRankPosition": null,
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": null,
+        "indexedAt": null
+      },
+      "status": "just_published"
+    },
+    {
+      "slug": "onboarding-is-where-churn-starts",
+      "title": "Onboarding Is Where Churn Starts",
+      "type": "blog",
+      "publishedAt": "2026-04-07",
+      "metrics": {
+        "pageviews": 312,
+        "uniqueVisitors": 248,
+        "avgTimeOnPageSeconds": 214,
+        "bounceRate": 0.44,
+        "scrollDepthPercent": 68,
+        "socialShares": 17,
+        "inboundLinks": 2,
+        "conversions": 4,
+        "conversionRate": 0.016
+      },
+      "seo": {
+        "googleRankPosition": null,
+        "impressions": 88,
+        "clicks": 11,
+        "ctr": 0.125,
+        "indexedAt": "2026-04-07"
+      },
+      "status": "active"
+    }
+  ],
+  "channels": {
+    "organic_search": {
+      "sessions": 1820,
+      "conversionRate": 0.018
+    },
+    "direct": {
+      "sessions": 1102,
+      "conversionRate": 0.012
+    },
+    "social": {
+      "sessions": 643,
+      "conversionRate": 0.009
+    },
+    "referral": {
+      "sessions": 539,
+      "conversionRate": 0.021
+    },
+    "email": {
+      "sessions": 717,
+      "conversionRate": 0.024
+    }
+  },
+  "topPerformers": {
+    "byPageviews": [
+      "onboarding-is-where-churn-starts"
+    ],
+    "byConversionRate": [
+      "onboarding-is-where-churn-starts"
+    ],
+    "byAvgTimeOnPage": [
+      "onboarding-is-where-churn-starts"
+    ]
+  },
+  "targets": {
+    "monthlyOrganicSessions": 5000,
+    "monthlyConversions": 75,
+    "avgPositionTopKeywords": 15
+  }
+}
